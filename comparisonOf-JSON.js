@@ -15,4 +15,4 @@ console.log(JSON.stringify(obj1) === JSON.stringify(obj2));                     
 
 // with the lodash method 
 const _ = require('lodash') //initiating lodash
-console.log(_.isEqual(obj1,obj2))        
+console.log(_.isEqual(obj1,obj2))                                                 //true
